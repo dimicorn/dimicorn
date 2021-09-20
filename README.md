@@ -19,7 +19,7 @@
 <h3 align="left">✉️Connect with me:</h3>
 <p align="left">
 <a href="https://vk.com/dimicorn" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="dimicorn" height="40" width="40" /></a>
-<a href="dmitry.zagorulya@gmail.com" target="_blank"><img align="center" src="<img src="https://img.icons8.com/color/48/000000/filled-message.png"/>" alt="hud0shnik" height="40" width="40"/></a>  
+<a href="dmitry.zagorulya@gmail.com" target="_blank"><img align="center" src="<img src="https://img.icons8.com/color/48/000000/filled-message.png"/>" alt="dimicorn" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">🛠Languages and Tools:</h3>
