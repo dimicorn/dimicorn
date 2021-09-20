@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Dmitrii Zagorulia
+Second year student of Moscow Institute of Physics and Technology
+Major: Applied Mathematics and Physics
 
 
-**dimicorn/dimicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
