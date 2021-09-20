@@ -1,20 +1,26 @@
 ### Hi there 👋, I'm Dmitrii Zagorulia
 <h3 align= "center"> Second year student of Moscow Institute of Physics and Technology </h3>
-<h1></h1>
 <h3 align= "center"> Major: Applied Mathematics and Physics</h3>
 
 
 
 
-Here are some ideas to get you started:
+<h3 align="left">🔎About me:</h3>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning OOP on C/C++
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **Python**
 - 📫 How to reach me: 
 - ⚡ Fun fact: ...
+
+
+<h3 align="left">✉️Connect with me:</h3>
+<p align="left">
+<a href="https://vk.com/dimicorn" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="dimicorn" height="40" width="40" /></a>
+<a href="dmitry.zagorulya@gmail.com" target="_blank"><img align="center" src="<img src="https://img.icons8.com/color/48/000000/filled-message.png"/>" alt="hud0shnik" height="40" width="40"/></a>  
+</p>
 
 <h3 align="left">🛠Languages and Tools:</h3>
 
