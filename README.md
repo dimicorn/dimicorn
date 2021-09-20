@@ -1,25 +1,22 @@
 ### Hi there 👋, I'm Dmitrii Zagorulia
 <h3 align= "center"> Second year student of Moscow Institute of Physics and Technology </h3>
 <h3 align= "center"> Major: Applied Mathematics and Physics</h3>
-
+<h1></h1>
 
 
 
 <h3 align="left">🔎About me:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about **Python**
-- 📫 How to reach me: 
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [My Personal Website](https://github.com/dimicorn/dimicorn.github.io)
+- 🌱 I’m currently learning **Data Analysis** and **Visualisation**
+- 👯 I’m looking to collaborate on **Machine Learning** and **Numerical Simulations**
+- 💬 Ask me about **Python** and **C/C++**
+- 📫 How to reach me: dmitry.zagorulya@gmail.com
 
 
 <h3 align="left">✉️Connect with me:</h3>
 <p align="left">
 <a href="https://vk.com/dimicorn" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/vk-circled.png" alt="dimicorn" height="40" width="40" /></a>
-<a href="dmitry.zagorulya@gmail.com" target="_blank"><img align="center" src="<img src="https://img.icons8.com/color/48/000000/filled-message.png"/>" alt="dimicorn" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">🛠Languages and Tools:</h3>
@@ -32,6 +29,8 @@
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   
+<a href="https://www.overleaf.com/learn/" target="_blank"> 
+  <img src="https://img.icons8.com/color/48/000000/latex.png" alt="latex" width="40" height="40"/></a>
   <!--
 <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
