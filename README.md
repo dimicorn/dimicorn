@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Analysis** and **Visualisation**
 - 👯 I’m looking to collaborate on **Machine Learning** and **Numerical Simulations**
 - 💬 Ask me about **Python** and **C/C++**
-- 📫 How to reach me: dmitry.zagorulya@gmail.com
+- 📫 How to reach me: zagorulia.ds@phystech.edu
 
 
 <h3 align="left">✉️Connect with me:</h3>
