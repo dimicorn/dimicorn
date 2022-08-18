@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Dmitrii Zagorulia
-<h3 align= "center"> Second year student of Moscow Institute of Physics and Technology </h3>
+<h3 align= "center"> Third year student of Moscow Institute of Physics and Technology </h3>
 <h3 align= "center"> Major: Applied Mathematics and Physics</h3>
 <h1></h1>
 
